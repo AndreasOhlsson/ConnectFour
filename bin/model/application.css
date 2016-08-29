@@ -1,0 +1,15 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+#board {
+	-fx-background-color: rgba(255,255,255, .80);
+	-fx-padding: 6 6 6 6;
+	-fx-border-radius: 8;
+	-fx-font-weight: bold;
+	
+	
+}
+
+.Circle {
+	-fx-border-color: rgb(0,0,0);
+}
+

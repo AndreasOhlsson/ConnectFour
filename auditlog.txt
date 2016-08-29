@@ -1,0 +1,87 @@
+Mon Aug 29 21:09:01 CEST 2016 Victor wins the game 
+Mon Aug 29 21:09:01 CEST 2016 Victor put a circle in column 2 and at row 4
+Mon Aug 29 21:09:01 CEST 2016 Andreas put a circle in column 2 and at row 5
+Mon Aug 29 21:09:01 CEST 2016 Victor put a circle in column 6 and at row 5
+Mon Aug 29 21:09:01 CEST 2016 Andreas put a circle in column 0 and at row 5
+Mon Aug 29 21:09:01 CEST 2016 Victor put a circle in column 1 and at row 1
+Mon Aug 29 21:09:01 CEST 2016 Andreas put a circle in column 1 and at row 2
+Mon Aug 29 21:09:01 CEST 2016 Victor put a circle in column 4 and at row 2
+Mon Aug 29 21:09:01 CEST 2016 Andreas put a circle in column 1 and at row 3
+Mon Aug 29 21:09:01 CEST 2016 Victor put a circle in column 5 and at row 3
+Mon Aug 29 21:09:01 CEST 2016 Andreas put a circle in column 3 and at row 2
+Mon Aug 29 21:09:01 CEST 2016 Victor put a circle in column 5 and at row 4
+Mon Aug 29 21:09:01 CEST 2016 Andreas put a circle in column 5 and at row 5
+Mon Aug 29 21:09:01 CEST 2016 Victor put a circle in column 4 and at row 3
+Mon Aug 29 21:09:01 CEST 2016 Andreas put a circle in column 1 and at row 4
+Mon Aug 29 21:09:01 CEST 2016 Victor put a circle in column 1 and at row 5
+Mon Aug 29 21:09:01 CEST 2016 Andreas put a circle in column 4 and at row 4
+Mon Aug 29 21:09:01 CEST 2016 Victor put a circle in column 3 and at row 3
+Mon Aug 29 21:09:01 CEST 2016 Andreas put a circle in column 3 and at row 4
+Mon Aug 29 21:09:01 CEST 2016 Victor put a circle in column 4 and at row 5
+Mon Aug 29 21:09:01 CEST 2016 Andreas put a circle in column 3 and at row 5
+Mon Aug 29 21:09:01 CEST 2016 Board cleared 
+Mon Aug 29 20:00:39 CEST 2016 Board cleared 
+Mon Aug 29 20:00:39 CEST 2016 Zimba wins the game 
+Mon Aug 29 20:00:39 CEST 2016 Zimba put a circle in column 3 and at row 2
+Mon Aug 29 20:00:39 CEST 2016 Nala put a circle in column 4 and at row 3
+Mon Aug 29 20:00:39 CEST 2016 Zimba put a circle in column 3 and at row 3
+Mon Aug 29 20:00:39 CEST 2016 Nala put a circle in column 4 and at row 4
+Mon Aug 29 20:00:39 CEST 2016 Zimba put a circle in column 3 and at row 4
+Mon Aug 29 20:00:39 CEST 2016 Nala put a circle in column 4 and at row 5
+Mon Aug 29 20:00:39 CEST 2016 Zimba put a circle in column 3 and at row 5
+Mon Aug 29 20:00:39 CEST 2016 Board cleared 
+Mon Aug 29 19:59:01 CEST 2016 Hulk wins the game 
+Mon Aug 29 19:59:01 CEST 2016 Hulk put a circle in column 5 and at row 2
+Mon Aug 29 19:59:01 CEST 2016 Randy put a circle in column 4 and at row 3
+Mon Aug 29 19:59:01 CEST 2016 Hulk put a circle in column 5 and at row 3
+Mon Aug 29 19:59:01 CEST 2016 Randy put a circle in column 4 and at row 4
+Mon Aug 29 19:59:01 CEST 2016 Hulk put a circle in column 5 and at row 4
+Mon Aug 29 19:59:01 CEST 2016 Randy put a circle in column 4 and at row 5
+Mon Aug 29 19:59:01 CEST 2016 Hulk put a circle in column 5 and at row 5
+Mon Aug 29 19:59:01 CEST 2016 Board cleared 
+Mon Aug 29 19:58:35 CEST 2016 Earl wins the game 
+Mon Aug 29 19:58:35 CEST 2016 Earl put a circle in column 0 and at row 2
+Mon Aug 29 19:58:35 CEST 2016 Hulk put a circle in column 1 and at row 3
+Mon Aug 29 19:58:35 CEST 2016 Earl put a circle in column 0 and at row 3
+Mon Aug 29 19:58:35 CEST 2016 Hulk put a circle in column 1 and at row 4
+Mon Aug 29 19:58:35 CEST 2016 Earl put a circle in column 0 and at row 4
+Mon Aug 29 19:58:35 CEST 2016 Hulk put a circle in column 1 and at row 5
+Mon Aug 29 19:58:35 CEST 2016 Earl put a circle in column 0 and at row 5
+Mon Aug 29 19:58:35 CEST 2016 Board cleared 
+Mon Aug 29 19:57:24 CEST 2016 Earl wins the game 
+Mon Aug 29 19:57:24 CEST 2016 Earl put a circle in column 6 and at row 2
+Mon Aug 29 19:57:24 CEST 2016 Randy put a circle in column 5 and at row 3
+Mon Aug 29 19:57:24 CEST 2016 Earl put a circle in column 6 and at row 3
+Mon Aug 29 19:57:24 CEST 2016 Randy put a circle in column 5 and at row 4
+Mon Aug 29 19:57:24 CEST 2016 Earl put a circle in column 6 and at row 4
+Mon Aug 29 19:57:24 CEST 2016 Randy put a circle in column 5 and at row 5
+Mon Aug 29 19:57:24 CEST 2016 Earl put a circle in column 6 and at row 5
+Mon Aug 29 19:57:24 CEST 2016 Board cleared 
+Mon Aug 29 19:56:43 CEST 2016 Earl wins the game 
+Mon Aug 29 19:56:43 CEST 2016 Earl put a circle in column 3 and at row 2
+Mon Aug 29 19:56:43 CEST 2016 Hulk put a circle in column 2 and at row 3
+Mon Aug 29 19:56:43 CEST 2016 Earl put a circle in column 3 and at row 3
+Mon Aug 29 19:56:43 CEST 2016 Hulk put a circle in column 2 and at row 4
+Mon Aug 29 19:56:43 CEST 2016 Earl put a circle in column 3 and at row 4
+Mon Aug 29 19:56:43 CEST 2016 Hulk put a circle in column 2 and at row 5
+Mon Aug 29 19:56:43 CEST 2016 Earl put a circle in column 3 and at row 5
+Mon Aug 29 19:56:43 CEST 2016 Hulk put a circle in column 0 and at row 5
+Mon Aug 29 19:56:43 CEST 2016 Board cleared 
+Mon Aug 29 19:54:26 CEST 2016 Hulk wins the game 
+Mon Aug 29 19:54:26 CEST 2016 Hulk put a circle in column 3 and at row 2
+Mon Aug 29 19:54:26 CEST 2016 Superman put a circle in column 2 and at row 3
+Mon Aug 29 19:54:26 CEST 2016 Hulk put a circle in column 3 and at row 3
+Mon Aug 29 19:54:26 CEST 2016 Superman put a circle in column 2 and at row 4
+Mon Aug 29 19:54:26 CEST 2016 Hulk put a circle in column 3 and at row 4
+Mon Aug 29 19:54:26 CEST 2016 Superman put a circle in column 2 and at row 5
+Mon Aug 29 19:54:26 CEST 2016 Hulk put a circle in column 3 and at row 5
+Mon Aug 29 19:54:26 CEST 2016 Board cleared 
+Mon Aug 29 19:54:10 CEST 2016 Hulk wins the game 
+Mon Aug 29 19:54:10 CEST 2016 Hulk put a circle in column 3 and at row 2
+Mon Aug 29 19:54:10 CEST 2016 Randy put a circle in column 4 and at row 3
+Mon Aug 29 19:54:10 CEST 2016 Hulk put a circle in column 3 and at row 3
+Mon Aug 29 19:54:10 CEST 2016 Randy put a circle in column 4 and at row 4
+Mon Aug 29 19:54:10 CEST 2016 Hulk put a circle in column 3 and at row 4
+Mon Aug 29 19:54:10 CEST 2016 Randy put a circle in column 4 and at row 5
+Mon Aug 29 19:54:10 CEST 2016 Hulk put a circle in column 3 and at row 5
+Mon Aug 29 19:54:10 CEST 2016 Board cleared 
